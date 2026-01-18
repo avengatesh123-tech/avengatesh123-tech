@@ -21,8 +21,6 @@
 <p align="center">
   <img src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </p>
-
-```python
 class DataEngineer:
     def __init__(self):
         self.name = "Vengatesh"
@@ -110,3 +108,4 @@ https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=githu
 Made with ❤️ using GitHub Markdown
 
 </div> ```
+
