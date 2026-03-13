@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avengatesh123-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Collaborations-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Perambalur%2C%20India-blue" alt="Location" />
 </p>
 
 ---
