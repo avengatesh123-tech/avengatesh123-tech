@@ -1,76 +1,71 @@
-# Vengatesh A.
+# Vengatesh
 
-**Data Engineering | B.Tech AI & Data Science, 2027**
+**Data Engineer | Python | SQL | PySpark | Databricks | Kafka | AWS**
 
-Building data pipelines with Kafka, Spark, and PostgreSQL — currently focused on streaming architectures, medallion data models, and SQL query optimization.
-
-📫 **Email:** a.vengatesh123@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/vengatesh-a-3549922a2](https://www.linkedin.com/in/vengatesh-a-3549922a2/)
-💻 **GitHub:** [github.com/avengatesh123-tech](https://github.com/avengatesh123-tech)
+Building reliable, scalable data pipelines and cloud-based data platforms for batch and streaming workloads.
 
 ---
 
-## Tech Stack
+## Data Engineering Focus
 
-**Languages & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Design and development of production-grade data pipelines across batch and streaming workloads, covering ETL / ELT, Data Lake and Data Warehouse architectures, Medallion Architecture, CDC pipelines, data quality, and distributed, cloud-based data processing on AWS.
+
+---
+
+## Technical Skills
+
+**Programming & Querying**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data Engineering**
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**ML & Analysis**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-2E2E2E?style=for-the-badge)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+`ETL / ELT` `Batch Processing` `Stream Processing` `Change Data Capture (CDC)` `Data Quality` `Data Pipeline Development`
 
----
+**Data Architecture & Storage**
 
-## Featured Projects
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-0468D7?style=for-the-badge)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge)
 
-### 🏦 Banking System — Medallion Architecture Pipeline
-End-to-end streaming data pipeline using **Kafka + Spark + PostgreSQL**, structured across Bronze, Silver, and Gold layers. Fully Dockerized for reproducible deployment.
-`Kafka` `Spark Structured Streaming` `PostgreSQL` `Docker`
+`Data Lake` `Data Warehouse` `Medallion Architecture`
 
-### 🛒 E-Commerce Order Tracking Pipeline
-Real-time order tracking system built on Kafka event streaming with Spark processing and Postgres as the sink, delivered as a fully runnable containerized pipeline.
-`Kafka` `Spark` `PostgreSQL` `Docker`
+**Cloud**
 
-### 🚕 Real-Time Ride-Hailing Event Simulator
-Event-driven simulator built in Kafka **KRaft mode** with Schema Registry, modeling real-time ride requests and driver matching at scale.
-`Kafka (KRaft)` `Schema Registry` `Python`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-1E88E5?style=for-the-badge)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
-### 🏗️ Instacart Data Warehouse
-Dimensional data warehouse on **SQL Server** using Kimball-style star schema modeling, with Power BI dashboards and full documentation.
-`SQL Server` `Star Schema` `Power BI`
+**Databases**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Currently Learning
+**Tools & Platforms**
 
-- Advanced SQL query optimization — indexing, SARGability, execution plans, window functions
-- Apache Kafka internals and stream processing patterns
-- PySpark performance tuning for large-scale batch and streaming workloads
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avengatesh123-tech&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avengatesh123-tech&layout=compact&theme=default&hide_border=true)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-<div align="center">
-<i>Open to remote data engineering internships and freelance opportunities.</i>
-</div>
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vengatesh-a-3549922a2)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vengateshvengat)
